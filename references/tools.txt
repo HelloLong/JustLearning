@@ -1,0 +1,12 @@
+文档管理：
+git 
+git clone
+git pull
+git push origin master : master (或者 git push origin master)
+
+
+代码编辑：
+Sublime or  notepad  or vscode 
+Emmet 插件
+
+
